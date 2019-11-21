@@ -8,7 +8,9 @@ any methods for working with branches and builds and I had to implement such cla
 
 ### To build image:
 
+```
 docker build -t <image name> <repo root directory>
+```
 
 ### To initiate builds:
 
