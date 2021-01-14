@@ -1,6 +1,5 @@
 # Dont forget to set env variables:
 # APPCENTER_OWNER APPCENTER_APP APPCENTER_TOKEN
-
 FROM python:alpine
 
 COPY files /
